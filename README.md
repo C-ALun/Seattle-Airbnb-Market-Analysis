@@ -71,7 +71,7 @@ This approach prevents duplicate revenue calculations while allowing availabilit
 
 # Dashboard 1 — Seattle Airbnb Market Overview
 
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](Images/dashboard1.png)
 
 ### Objective
 
@@ -94,7 +94,7 @@ Provide an overall view of Seattle's Airbnb market.
 
 # Dashboard 2 — Seattle Airbnb Revenue Drivers
 
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](Images/dashboard2.png)
 
 ### Objective
 
@@ -118,7 +118,7 @@ Identify the factors most strongly associated with higher annual Airbnb revenue.
 
 # Dashboard 3 — Seattle Airbnb Booking Strategy
 
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](Images/dashboard3.png)
 
 ### Objective
 
