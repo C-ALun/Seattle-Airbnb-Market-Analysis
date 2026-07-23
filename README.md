@@ -195,17 +195,14 @@ Seattle-Airbnb-Market-Analysis
 │
 ├── README.md
 │
-├── Tableau/
-│   └── Seattle Airbnb Analysis.twbx
+├── Seattle Airbnb Analysis.twbx
 │
 ├── Images/
 │   ├── dashboard1.png
 │   ├── dashboard2.png
 │   └── dashboard3.png
 │
-└── Data/
-    ├── listings.csv (optional)
-    └── calendar.csv (optional)
+└──
 ```
 
 ---
@@ -216,7 +213,7 @@ View the interactive dashboards here:
 
 **Tableau Public**
 
-(Add your Tableau Public link)
+https://public.tableau.com/views/SeattleAirbnbAnalysis_17848322517730/SeattleAirbnbMarketOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
